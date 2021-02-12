@@ -1,1 +1,1 @@
-# google-homepage
+This is an exercise to replicate the Google homepage using only HTML and CSS. 
